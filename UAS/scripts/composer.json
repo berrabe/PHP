@@ -1,0 +1,8 @@
+{
+    "name": "icall/instagram",
+    "require": {
+        "spomky-labs/otphp": "^9.1",
+        "paragonie/constant_time_encoding": "^2.2",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}

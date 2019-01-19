@@ -1,0 +1,18 @@
+
+19/01/2019 || 10:12:55  @ 125.163.241.169	admin BERHASIL Login  [admin => 123] 
+19/01/2019 || 10:13:09  @ 125.163.241.169	admin BERHASIL validasi  [628465] 
+19/01/2019 || 10:33:54  @ 125.163.241.169	admin telah LOGOUT 
+19/01/2019 || 10:33:58  @ 125.163.241.169	dhona BERHASIL Login  [dhona => dhona] 
+19/01/2019 || 10:34:16  @ 125.163.241.169	dhona GAGAL Validasi!!  [325346]
+19/01/2019 || 10:34:49  @ 125.163.241.169	Login GAGAL  [admin => admin]
+19/01/2019 || 10:34:57  @ 125.163.241.169	admin BERHASIL Login  [admin => 123] 
+19/01/2019 || 10:35:22  @ 125.163.241.169	admin BERHASIL validasi  [877903] 
+19/01/2019 || 10:36:03  @ 125.163.241.169	admin telah LOGOUT 
+19/01/2019 || 10:36:10  @ 125.163.241.169	dhona BERHASIL Login  [dhona => dhona] 
+19/01/2019 || 10:36:17  @ 125.163.241.169	dhona BERHASIL validasi  [163853] 
+19/01/2019 || 10:51:30  @ 125.163.241.169	dhona telah LOGOUT 
+19/01/2019 || 10:51:33  @ 125.163.241.169	admin BERHASIL Login  [admin => 123] 
+19/01/2019 || 10:51:56  @ 125.163.241.169	admin BERHASIL validasi  [482899] 
+19/01/2019 || 13:13:56  @ 125.163.241.169	dhona BERHASIL Login  [dhona => dhona] 
+19/01/2019 || 13:14:16  @ 125.163.241.169	dhona BERHASIL validasi  [635056] 
+
